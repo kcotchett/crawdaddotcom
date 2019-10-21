@@ -20,7 +20,12 @@ p.p2 {
 span.Apple-tab-span {white-space:pre}
 a {
   color: yellow;
+  text-decoration: none;
 }
+a:hover {
+  text-decoration: underline;
+}
+
 .yellow {
   color: yellow;
 }
@@ -35,4 +40,14 @@ img {
   display: block;
   margin-top: 100px;
   font-size: 8px;
+}
+
+main {
+  display: block;
+  margin: 20px 0;
+}
+
+.main-block {
+  display: block;
+  margin-bottom: 40px;
 }
