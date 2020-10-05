@@ -14,12 +14,12 @@ p.p2 {
   margin: 0.0px 0.0px 14.9px 0.0px;
   line-height: 21.0px;
   font: 12.0px Courier;
-  color: yellow;
+  color: rgb(70, 125, 25);
   -webkit-text-stroke: #000000;
 }
 span.Apple-tab-span {white-space:pre}
 a {
-  color: yellow;
+  color: rgb(70, 125, 25);
   text-decoration: none;
 }
 a:hover {
@@ -27,7 +27,7 @@ a:hover {
 }
 
 .yellow {
-  color: yellow;
+  color: rgb(70, 125, 25);
 }
 
 img {
