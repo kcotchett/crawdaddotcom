@@ -4,11 +4,12 @@ body {
   font: 12px Courier;
   min-height: 100vh;
 }
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: red;}
 p.p2 {
   margin: 0.0px 0.0px 0.0px 0.0px;
   font: 12.0px Helvetica;
   min-height: 14.0px;
+  color: white;
 }
 .s1 {
   margin: 0.0px 0.0px 14.9px 0.0px;
