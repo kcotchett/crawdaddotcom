@@ -1,5 +1,5 @@
 body {
-  background-color: rgba(0, 0, 0, 0.945);
+  background-color: rgba(209, 84, 2, 0.925);
   color: white;
   font: 12px Courier;
   min-height: 100vh;
@@ -22,13 +22,31 @@ a {
   color: rgb(70, 125, 25);
   text-decoration: none;
 }
+.yellow {
+  color: rgb(237, 41, 57);
+}
+
+a:link {
+  color: rgb(237, 41, 57);
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: rgb(150, 30, 255);
+  background-color: transparent;
+  text-decoration: none;
+}
 a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
   text-decoration: underline;
 }
 
-.yellow {
-  color: rgb(70, 125, 25);
-}
 
 img {
   /* This stops images from going past the width of the page */
