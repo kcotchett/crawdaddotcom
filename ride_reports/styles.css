@@ -1,5 +1,5 @@
 body {
-  background-color: rgba(204, 48, 6, 1);
+  background-color: rgba(81, 31, 31, 1);
   color: white;
   font: 12px Courier;
   min-height: 100vh;
@@ -14,12 +14,12 @@ p.p2 {
   margin: 0.0px 0.0px 14.9px 0.0px;
   line-height: 21.0px;
   font: 12.0px Courier;
-  color: rgb(12, 74, 28);
+  color: rgb(231,219,190);
   -webkit-text-stroke: #000000;
 }
 span.Apple-tab-span {white-space:pre}
 a {
-  color: rgb(12, 74, 28);
+  color: rgb(231,219,190);
   text-decoration: none;
 }
 a:hover {
@@ -27,7 +27,7 @@ a:hover {
 }
 
 .yellow {
-  color: rgb(12, 74, 28);
+  color: rgb(231,219,190);
 }
 
 img {
