@@ -1,3 +1,11 @@
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #70835a;
+  color: #d78c35;
+  font-size: 30px;
+}
+
 body {
   background-color: rgba(177, 40, 42, 1);
   color: rgb(46,87,71);
