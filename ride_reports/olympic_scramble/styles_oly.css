@@ -7,8 +7,8 @@
 }
 
 body {
-  background-color: rgba(115, 79, 150, 1);
-  color: rgb(211, 211, 255);
+  background-color: rgba(211, 211, 255);
+  color: rgb(115, 79, 150, 1);
   font: 12px Courier;
   min-height: 100vh;
 }
